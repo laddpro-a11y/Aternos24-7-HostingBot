@@ -3,12 +3,13 @@
   "bot-account": {
     "username": "HowToUseAternos",
     "password": "",
-    "type": "offline"
+    "type": "online"
   },
   "server": {
     "ip": " Ladislaszaretzki.aternos.me",
     "port": 45810,
-    "version": "",
+    "version": 26.1.2 (74)
+"",
     "try-creative": false
   },
   "position": {
@@ -32,7 +33,7 @@
       "repeat-delay": 120,
       "messages": [
         "I'm a regular player",
-        "Subscribe to Slobos!",
+        "Subscribe to LADOMIK!",
         "I like to play Minecraft!"
       ]
     },
